@@ -21,8 +21,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com/example/example.git"
   },
-  "dependencies": {
-  },
   "author": 
   {
     "name": "JohnYoung404",
