@@ -1,0 +1,32 @@
+{
+  "name": "com.johnyoung404.test-package",
+  "displayName": "Test-HelloWorld",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "unityRelease": "12f1",
+  "description": "Just a test package",
+  "keywords": [
+    "unity",
+	  "unity3d",
+    "johnyoung404",
+    "test"
+  ],
+  "homepage": "https://example.com/home.html",
+  "bugs": {
+    "url": "https://https://example.com/issues.html"
+  },
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/example/example.git"
+  },
+  "dependencies": {
+  },
+  "author": 
+  {
+    "name": "JohnYoung404",
+    "email": "JohnYoung404@outlook.com",
+    "url": "https://johnyoung404.github.io/"
+  }
+}
